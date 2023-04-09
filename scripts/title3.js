@@ -1,6 +1,6 @@
-const music = loadMusic("title3");
-
-Events.on(ClientLoadEvent, e => {
-    Vars.control.sound.title3.add(music);
+const music = loadMusic("title3.ogg");
+Events.on(WorldLoadEvent, e => {
+  Vars.control.sound.stop();
+  music.stop();
+  music.play();
 });
-
