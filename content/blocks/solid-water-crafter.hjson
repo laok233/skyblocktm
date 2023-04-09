@@ -24,4 +24,4 @@ loopSound: machine
 loopSoundVolume: 0.95
 ambientSound: respawning
 ambientSoundVolume: 0.5
-outputItem: waterfill/5
+outputItem: solid-water/5
