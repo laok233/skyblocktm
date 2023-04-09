@@ -1,0 +1,11 @@
+name: leadfill
+description: leadfill
+type: Wall
+health: 100
+size: 1
+requirements: [
+  monai/200
+  lead/100
+]
+category: defense
+research: duo

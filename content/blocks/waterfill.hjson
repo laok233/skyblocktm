@@ -1,0 +1,11 @@
+name: waterfill
+description: waterfill
+type: Wall
+health: 100
+size: 1
+requirements: [
+  monai/200
+  solid-water/100
+]
+category: defense
+research: duo

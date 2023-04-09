@@ -1,0 +1,11 @@
+name: titaniumfill
+description: titaniumfill
+type: Wall
+health: 100
+size: 1
+requirements: [
+  monai/200
+  titanium/100
+]
+category: defense
+research: duo

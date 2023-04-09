@@ -1,0 +1,14 @@
+name: bigger landfill
+description: bigger landfill
+details: "bigger landfill"
+type: Pump
+health: 100
+size: 3
+liquidCapacity: 1
+hasPower: false
+pumpAmount: 1
+requirements: [
+  monai/900
+]
+category: liquid
+research: landfill

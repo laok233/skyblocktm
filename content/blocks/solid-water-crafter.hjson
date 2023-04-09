@@ -1,0 +1,27 @@
+type: GenericCrafter
+name: solid water crafter
+description: water fill moment :waterfill:
+itemCapacity: 10
+health: 100
+size: 2
+hasPower: true
+hasItems: true
+craftTime: 500
+updateEffect: mineBig
+consumes: {
+  power: 5
+  liquid: {
+    liquid: water
+    amount: 5
+  }
+}
+requirements: [
+  monai/1000
+]
+category: crafting
+research: duo
+loopSound: machine
+loopSoundVolume: 0.95
+ambientSound: respawning
+ambientSoundVolume: 0.5
+outputItem: waterfill/5

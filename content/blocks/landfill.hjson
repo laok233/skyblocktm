@@ -1,0 +1,14 @@
+name: landfill
+description: landfill
+details: "landfill"
+type: Pump
+health: 100
+size: 1
+liquidCapacity: 1
+hasPower: false
+pumpAmount: 1
+requirements: [
+  monai/100
+]
+category: liquid
+research: duo

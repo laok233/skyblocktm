@@ -1,0 +1,11 @@
+name: scrapfill
+description: scrapfill
+type: Wall
+health: 100
+size: 1
+requirements: [
+  monai/200
+  scrap/100
+]
+category: defense
+research: duo

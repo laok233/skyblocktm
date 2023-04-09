@@ -1,0 +1,11 @@
+name: sandfill
+description: sandfill
+type: Wall
+health: 100
+size: 1
+requirements: [
+  monai/200
+  sand/100
+]
+category: defense
+research: duo
