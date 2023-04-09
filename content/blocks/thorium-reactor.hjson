@@ -1,0 +1,9 @@
+itemDuration: 240
+coolantPower: 2
+powerProduction: 60
+explodeSound: wet-fart
+explosionShake: 10
+explosionShakeDuration: 10
+requirements: [
+  copper/1
+]
