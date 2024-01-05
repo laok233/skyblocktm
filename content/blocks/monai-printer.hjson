@@ -12,7 +12,8 @@ consumes: {
   power: 5
 }
 requirements: [
-  copper/1
+  copper/420
+  lead/420
 ]
 category: crafting
 research: duo
@@ -20,4 +21,4 @@ loopSound: machine
 loopSoundVolume: 0.95
 ambientSound: respawning
 ambientSoundVolume: 0.5
-outputItem: monai/5
+outputItem: monai/10

@@ -8,7 +8,7 @@ liquidCapacity: 1
 hasPower: false
 pumpAmount: 1
 requirements: [
-  monai/900
+  monai/90
 ]
 category: liquid
 research: landfill

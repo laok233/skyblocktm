@@ -4,8 +4,8 @@ type: Wall
 health: 100
 size: 1
 requirements: [
-  monai/200
-  solid-water/100
+  monai/10
+  solid-water/10
 ]
 category: defense
 research: duo

@@ -4,8 +4,8 @@ type: Wall
 health: 100
 size: 1
 requirements: [
-  monai/200
-  copper/100
+  monai/10
+  copper/10
 ]
 category: defense
 research: duo

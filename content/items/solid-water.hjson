@@ -1,7 +1,7 @@
 name: solid water 
 description: "water but solid"
 details: "solid water tm, it is not ice i swear" 
-hardness: 5
+hardness: 1
 color: 8e5811
 research:{
   parent: surge-alloy

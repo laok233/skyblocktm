@@ -12,11 +12,11 @@ consumes: {
   power: 5
   liquid: {
     liquid: water
-    amount: 5
+    amount: 0.5
   }
 }
 requirements: [
-  monai/1000
+  monai/100
 ]
 category: crafting
 research: duo

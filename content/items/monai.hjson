@@ -1,7 +1,7 @@
 name: monai
 description: "monai"
 details: "monai" 
-hardness: 5
+hardness: 1
 color: 8e5811
 research:{
   parent: surge-alloy

@@ -4,6 +4,11 @@ powerProduction: 60
 explodeSound: wet-fart
 explosionShake: 20
 explosionShakeDuration: 15
+description: funny sound effect when it explodes.
+itemCapacity: 50
 requirements: [
-  copper/1
+  copper/100
+  lead/100
+  thorium/100
+  monai/100
 ]
